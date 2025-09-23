@@ -10,4 +10,9 @@ sky:
     endpoint: oss-cn-beijing.aliyuncs.com
     access-key-id: LTAI5PeFLzsPPT8gG3LPW64
     access-key-secret: U6k1brOZ8gaOIXv3nXbulGTUzy6Pd7
-    bucket-name: ky-itcast
+    bucket-name: sky-itcast
+  redis:
+    host: localhost
+    port: 6379
+    password:
+    database: 0
