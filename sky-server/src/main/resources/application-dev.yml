@@ -5,7 +5,7 @@ sky:
     port: 3306
     database: sky_take_out
     username: root
-    password: 123456
+    password: mysql_3RJ7Cn
   alioss:
     endpoint: oss-cn-beijing.aliyuncs.com
     access-key-id: LTAI5PeFLzsPPT8gG3LPW64
@@ -17,5 +17,5 @@ sky:
     password:
     database: 0
   wechat:
-    appid:
-    secret:
+    appid: wx8d154806bca35e37
+    secret: 8373bb7b9695e5727b463f4029624631
